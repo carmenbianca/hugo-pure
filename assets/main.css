@@ -5,15 +5,15 @@
 :root {
     --max-width: 800px;
 
-    --background-light: #efefef;
-    --background-pre-light: #cdcdcd;
-    --color-light: #434343;
-    --color-secondary-light: #808080;
+    --background-light: #ffffff;
+    --background-pre-light: #e8e8e8;
+    --color-light: #000000;
+    --color-secondary-light: #505050;
 
-    --background-dark: #1c1c1c;
-    --background-pre-dark: #323232;
-    --color-dark: #d0d0d0;
-    --color-secondary-dark: #878787;
+    --background-dark: #000000;
+    --background-pre-dark: #181818;
+    --color-dark: #ffffff;
+    --color-secondary-dark: #b0b0b0;
 }
 
 html { overflow-y: scroll; }
